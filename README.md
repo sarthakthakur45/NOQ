@@ -57,24 +57,4 @@ Using Python
 python -m app.py
 ```
 
-------------------------------------------
 
-### Contributing
-
- We're are open to `enhancements` & `bug-fixes`
-
-
-------------------------------------------
-
-### Contributors
-
-* [@tejas2008](https://github.com/tejas2008)
-* [@vig2306](https://github.com/vig2306)
-* [@debdatta123](https://github.com/debdatta123)
-* [@sbangad](https://github.com/sbangad)
-* [@mr-boomerrang](https://github.com/mr-boomerrang)
-
-
-------------------------------------------
-
-This repository / project was a part of IBM hackathon Crack The Covid-19  
